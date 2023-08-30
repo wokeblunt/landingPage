@@ -1,0 +1,23 @@
+{
+    "name": "AIverse Colony",
+    "description": "AIverse homies are your forever friends. Your new digital companion and inclusion into the kindness community aka the garden. This collection of 150 NFTs is made possible with love from RariKo.",
+    "image": "ipfs://bafkreidtl5w2odfanuqhswaxhx45e4dwmyzxvaszatvgrtn36g4tfwwxjy",
+    "attributes": [
+    {
+    "trait_type": "Community name",
+    "value": "AIverse"
+    },
+    {
+    "trait_type": "Country",
+    "value": "India"
+    },
+    {
+    "trait_type": "Industry",
+    "value": "AI"
+    },
+    {
+    "trait_type": "Max-Supply",
+    "value": "150"
+    }
+    ]
+}

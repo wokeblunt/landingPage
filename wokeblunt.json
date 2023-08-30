@@ -1,0 +1,41 @@
+{
+    "name": "wokeblunt.wagmi",
+    "description": "WAGMI is the world's first privacy oriented Social Graph Protocol. Built on Binance Smart Chain but it's a multichain protocol where user can link all their wallets across all the blockchains and socialize in the WAGMI world .",
+    "image": "ipfs://bafybeifs7xl6o4q7enyqyhjjetgup2lp3key3zpteojxsx2shni4x5hxqq",
+    "attributes": [
+    {
+    "trait_type": "Profile",
+    "value": "Wokeblunt"
+    },
+    {
+    "trait_type": "Degen Score",
+    "value": "546"
+    },
+    {
+    "trait_type": "Wallets count",
+    "value": "15"
+    },
+    {
+    "trait_type": "Followers",
+    "value": "45"
+    },
+    {
+    "trait_type": "Following",
+    "value": "55"
+    },
+    {
+    "trait_type": "Created on",
+    "value": "11-May-2023"
+    },
+    {
+    "trait_type": "isVerified",
+    "value": "No"
+    },
+    ],
+    "ethAddresses": ["0x35g4r3g25hg2bhv1d2f1","0xergre254254fg21dg2dg2dfg1","0xfregret0htr2h45254f","0xfregret0htr2h45254ffg5ert"],
+    "followers": ["mani.wagmi","srinivas.wagmi","nishant.wagmi","teja.wagmi"],
+    "following": ["mani.wagmi","srinivas.wagmi","nishant.wagmi","teja.wagmi"],
+    "posts": ["12","135","354586","354546"],
+    "pfpURL": "ipfs://bafybeifs7xl6o4q7enyqyhjjetgup2lp3key3zpteojxsx2shni4x5hxqq",
+    "solAddresses": ["bafybeie4ochlch56xnrvnoyx2ltysa4w6f6nkxa6ukhpbsw7i7tkqiwqwu4"]
+}
